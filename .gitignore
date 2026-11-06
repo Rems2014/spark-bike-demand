@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.idea/
+.vscode/
+*.log
+spark-warehouse/
+metastore_db/
+derby.log
+artifacts/
+.runtime/
+data/raw/

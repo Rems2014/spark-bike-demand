@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img" aria-label="Monthly rental totals">
+<rect width="1000" height="440" fill="#f8fafc"/>
+<g font-family="Arial, sans-serif" fill="#0f172a">
+<text x="70" y="35" font-size="24" font-weight="bold">Monthly rental totals</text>
+<text x="70" y="58" font-size="13">Capital Bikeshare | 2011–2012 | Source: UCI Bike Sharing dataset</text>
+<path d="M70 340H970" stroke="#cbd5e1"/>
+<text x="60" y="344" text-anchor="end" font-size="12">0</text>
+<path d="M70 290H970" stroke="#cbd5e1"/>
+<text x="60" y="294" text-anchor="end" font-size="12">48,086</text>
+<path d="M70 240H970" stroke="#cbd5e1"/>
+<text x="60" y="244" text-anchor="end" font-size="12">96,172</text>
+<path d="M70 190H970" stroke="#cbd5e1"/>
+<text x="60" y="194" text-anchor="end" font-size="12">144,258</text>
+<path d="M70 140H970" stroke="#cbd5e1"/>
+<text x="60" y="144" text-anchor="end" font-size="12">192,344</text>
+<path d="M70 90H970" stroke="#cbd5e1"/>
+<text x="60" y="94" text-anchor="end" font-size="12">240,430</text>
+<rect x="74.0" y="300.3" width="29.5" height="39.7" fill="#0f766e"><title>2011-01: 38189</title></rect>
+<text transform="translate(88.8,355) rotate(60)" font-size="11">2011-01</text>
+<rect x="111.5" y="289.9" width="29.5" height="50.1" fill="#0f766e"><title>2011-02: 48215</title></rect>
+<text transform="translate(126.2,355) rotate(60)" font-size="11">2011-02</text>
+<rect x="149.0" y="273.4" width="29.5" height="66.6" fill="#0f766e"><title>2011-03: 64045</title></rect>
+<text transform="translate(163.8,355) rotate(60)" font-size="11">2011-03</text>
+<rect x="186.5" y="241.4" width="29.5" height="98.6" fill="#0f766e"><title>2011-04: 94870</title></rect>
+<text transform="translate(201.2,355) rotate(60)" font-size="11">2011-04</text>
+<rect x="224.0" y="198.8" width="29.5" height="141.2" fill="#0f766e"><title>2011-05: 135821</title></rect>
+<text transform="translate(238.8,355) rotate(60)" font-size="11">2011-05</text>
+<rect x="261.5" y="190.8" width="29.5" height="149.2" fill="#0f766e"><title>2011-06: 143512</title></rect>
+<text transform="translate(276.2,355) rotate(60)" font-size="11">2011-06</text>
+<rect x="299.0" y="193.0" width="29.5" height="147.0" fill="#0f766e"><title>2011-07: 141341</title></rect>
+<text transform="translate(313.8,355) rotate(60)" font-size="11">2011-07</text>
+<rect x="336.5" y="197.9" width="29.5" height="142.1" fill="#0f766e"><title>2011-08: 136691</title></rect>
+<text transform="translate(351.2,355) rotate(60)" font-size="11">2011-08</text>
+<rect x="374.0" y="207.5" width="29.5" height="132.5" fill="#0f766e"><title>2011-09: 127418</title></rect>
+<text transform="translate(388.8,355) rotate(60)" font-size="11">2011-09</text>
+<rect x="411.5" y="211.6" width="29.5" height="128.4" fill="#0f766e"><title>2011-10: 123511</title></rect>
+<text transform="translate(426.2,355) rotate(60)" font-size="11">2011-10</text>
+<rect x="449.0" y="233.8" width="29.5" height="106.2" fill="#0f766e"><title>2011-11: 102167</title></rect>
+<text transform="translate(463.8,355) rotate(60)" font-size="11">2011-11</text>
+<rect x="486.5" y="249.2" width="29.5" height="90.8" fill="#0f766e"><title>2011-12: 87323</title></rect>
+<text transform="translate(501.2,355) rotate(60)" font-size="11">2011-12</text>
+<rect x="524.0" y="239.4" width="29.5" height="100.6" fill="#0f766e"><title>2012-01: 96744</title></rect>
+<text transform="translate(538.8,355) rotate(60)" font-size="11">2012-01</text>
+<rect x="561.5" y="232.8" width="29.5" height="107.2" fill="#0f766e"><title>2012-02: 103137</title></rect>
+<text transform="translate(576.2,355) rotate(60)" font-size="11">2012-02</text>
+<rect x="599.0" y="168.6" width="29.5" height="171.4" fill="#0f766e"><title>2012-03: 164875</title></rect>
+<text transform="translate(613.8,355) rotate(60)" font-size="11">2012-03</text>
+<rect x="636.5" y="158.8" width="29.5" height="181.2" fill="#0f766e"><title>2012-04: 174224</title></rect>
+<text transform="translate(651.2,355) rotate(60)" font-size="11">2012-04</text>
+<rect x="674.0" y="136.3" width="29.5" height="203.7" fill="#0f766e"><title>2012-05: 195865</title></rect>
+<text transform="translate(688.8,355) rotate(60)" font-size="11">2012-05</text>
+<rect x="711.5" y="129.1" width="29.5" height="210.9" fill="#0f766e"><title>2012-06: 202830</title></rect>
+<text transform="translate(726.2,355) rotate(60)" font-size="11">2012-06</text>
+<rect x="749.0" y="128.3" width="29.5" height="211.7" fill="#0f766e"><title>2012-07: 203607</title></rect>
+<text transform="translate(763.8,355) rotate(60)" font-size="11">2012-07</text>
+<rect x="786.5" y="117.0" width="29.5" height="223.0" fill="#0f766e"><title>2012-08: 214503</title></rect>
+<text transform="translate(801.2,355) rotate(60)" font-size="11">2012-08</text>
+<rect x="824.0" y="112.7" width="29.5" height="227.3" fill="#0f766e"><title>2012-09: 218573</title></rect>
+<text transform="translate(838.8,355) rotate(60)" font-size="11">2012-09</text>
+<rect x="861.5" y="133.2" width="29.5" height="206.8" fill="#0f766e"><title>2012-10: 198841</title></rect>
+<text transform="translate(876.2,355) rotate(60)" font-size="11">2012-10</text>
+<rect x="899.0" y="181.3" width="29.5" height="158.7" fill="#0f766e"><title>2012-11: 152664</title></rect>
+<text transform="translate(913.8,355) rotate(60)" font-size="11">2012-11</text>
+<rect x="936.5" y="211.4" width="29.5" height="128.6" fill="#0f766e"><title>2012-12: 123713</title></rect>
+<text transform="translate(951.2,355) rotate(60)" font-size="11">2012-12</text>
+<text x="70" y="425" font-size="12">Descriptive historical data. Missing hours are not treated as zero.</text>
+</g></svg>

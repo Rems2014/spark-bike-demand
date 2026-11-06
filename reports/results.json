@@ -1,0 +1,743 @@
+{
+  "01_overview": [
+    {
+      "first_date": "2011-01-01",
+      "last_date": "2012-12-31",
+      "observed_hours": 17379,
+      "total_rentals": 3292679,
+      "average_rentals_per_observed_hour": 189.46,
+      "registered_share_percent": "81.17"
+    }
+  ],
+  "02_monthly_trend": [
+    {
+      "month": "2011-01",
+      "total_rentals": 38189,
+      "observed_hours": 688,
+      "average_hourly_rentals": 55.51
+    },
+    {
+      "month": "2011-02",
+      "total_rentals": 48215,
+      "observed_hours": 649,
+      "average_hourly_rentals": 74.29
+    },
+    {
+      "month": "2011-03",
+      "total_rentals": 64045,
+      "observed_hours": 730,
+      "average_hourly_rentals": 87.73
+    },
+    {
+      "month": "2011-04",
+      "total_rentals": 94870,
+      "observed_hours": 719,
+      "average_hourly_rentals": 131.95
+    },
+    {
+      "month": "2011-05",
+      "total_rentals": 135821,
+      "observed_hours": 744,
+      "average_hourly_rentals": 182.56
+    },
+    {
+      "month": "2011-06",
+      "total_rentals": 143512,
+      "observed_hours": 720,
+      "average_hourly_rentals": 199.32
+    },
+    {
+      "month": "2011-07",
+      "total_rentals": 141341,
+      "observed_hours": 744,
+      "average_hourly_rentals": 189.97
+    },
+    {
+      "month": "2011-08",
+      "total_rentals": 136691,
+      "observed_hours": 731,
+      "average_hourly_rentals": 186.99
+    },
+    {
+      "month": "2011-09",
+      "total_rentals": 127418,
+      "observed_hours": 717,
+      "average_hourly_rentals": 177.71
+    },
+    {
+      "month": "2011-10",
+      "total_rentals": 123511,
+      "observed_hours": 743,
+      "average_hourly_rentals": 166.23
+    },
+    {
+      "month": "2011-11",
+      "total_rentals": 102167,
+      "observed_hours": 719,
+      "average_hourly_rentals": 142.1
+    },
+    {
+      "month": "2011-12",
+      "total_rentals": 87323,
+      "observed_hours": 741,
+      "average_hourly_rentals": 117.84
+    },
+    {
+      "month": "2012-01",
+      "total_rentals": 96744,
+      "observed_hours": 741,
+      "average_hourly_rentals": 130.56
+    },
+    {
+      "month": "2012-02",
+      "total_rentals": 103137,
+      "observed_hours": 692,
+      "average_hourly_rentals": 149.04
+    },
+    {
+      "month": "2012-03",
+      "total_rentals": 164875,
+      "observed_hours": 743,
+      "average_hourly_rentals": 221.9
+    },
+    {
+      "month": "2012-04",
+      "total_rentals": 174224,
+      "observed_hours": 718,
+      "average_hourly_rentals": 242.65
+    },
+    {
+      "month": "2012-05",
+      "total_rentals": 195865,
+      "observed_hours": 744,
+      "average_hourly_rentals": 263.26
+    },
+    {
+      "month": "2012-06",
+      "total_rentals": 202830,
+      "observed_hours": 720,
+      "average_hourly_rentals": 281.71
+    },
+    {
+      "month": "2012-07",
+      "total_rentals": 203607,
+      "observed_hours": 744,
+      "average_hourly_rentals": 273.67
+    },
+    {
+      "month": "2012-08",
+      "total_rentals": 214503,
+      "observed_hours": 744,
+      "average_hourly_rentals": 288.31
+    },
+    {
+      "month": "2012-09",
+      "total_rentals": 218573,
+      "observed_hours": 720,
+      "average_hourly_rentals": 303.57
+    },
+    {
+      "month": "2012-10",
+      "total_rentals": 198841,
+      "observed_hours": 708,
+      "average_hourly_rentals": 280.85
+    },
+    {
+      "month": "2012-11",
+      "total_rentals": 152664,
+      "observed_hours": 718,
+      "average_hourly_rentals": 212.62
+    },
+    {
+      "month": "2012-12",
+      "total_rentals": 123713,
+      "observed_hours": 742,
+      "average_hourly_rentals": 166.73
+    }
+  ],
+  "03_peak_hours": [
+    {
+      "hour": 17,
+      "observed_hours": 730,
+      "average_rentals": 461.45
+    },
+    {
+      "hour": 18,
+      "observed_hours": 728,
+      "average_rentals": 425.51
+    },
+    {
+      "hour": 8,
+      "observed_hours": 727,
+      "average_rentals": 359.01
+    },
+    {
+      "hour": 16,
+      "observed_hours": 730,
+      "average_rentals": 311.98
+    },
+    {
+      "hour": 19,
+      "observed_hours": 728,
+      "average_rentals": 311.52
+    },
+    {
+      "hour": 13,
+      "observed_hours": 729,
+      "average_rentals": 253.66
+    },
+    {
+      "hour": 12,
+      "observed_hours": 728,
+      "average_rentals": 253.32
+    },
+    {
+      "hour": 15,
+      "observed_hours": 729,
+      "average_rentals": 251.23
+    },
+    {
+      "hour": 14,
+      "observed_hours": 729,
+      "average_rentals": 240.95
+    },
+    {
+      "hour": 20,
+      "observed_hours": 728,
+      "average_rentals": 226.03
+    },
+    {
+      "hour": 9,
+      "observed_hours": 727,
+      "average_rentals": 219.31
+    },
+    {
+      "hour": 7,
+      "observed_hours": 727,
+      "average_rentals": 212.06
+    },
+    {
+      "hour": 11,
+      "observed_hours": 727,
+      "average_rentals": 208.14
+    },
+    {
+      "hour": 10,
+      "observed_hours": 727,
+      "average_rentals": 173.67
+    },
+    {
+      "hour": 21,
+      "observed_hours": 728,
+      "average_rentals": 172.31
+    },
+    {
+      "hour": 22,
+      "observed_hours": 728,
+      "average_rentals": 131.34
+    },
+    {
+      "hour": 23,
+      "observed_hours": 728,
+      "average_rentals": 87.83
+    },
+    {
+      "hour": 6,
+      "observed_hours": 725,
+      "average_rentals": 76.04
+    },
+    {
+      "hour": 0,
+      "observed_hours": 726,
+      "average_rentals": 53.9
+    },
+    {
+      "hour": 1,
+      "observed_hours": 724,
+      "average_rentals": 33.38
+    },
+    {
+      "hour": 2,
+      "observed_hours": 715,
+      "average_rentals": 22.87
+    },
+    {
+      "hour": 5,
+      "observed_hours": 717,
+      "average_rentals": 19.89
+    },
+    {
+      "hour": 3,
+      "observed_hours": 697,
+      "average_rentals": 11.73
+    },
+    {
+      "hour": 4,
+      "observed_hours": 697,
+      "average_rentals": 6.35
+    }
+  ],
+  "04_working_days": [
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 0,
+      "observed_hours": 230,
+      "average_rentals": 90.8
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 1,
+      "observed_hours": 230,
+      "average_rentals": 69.51
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 2,
+      "observed_hours": 228,
+      "average_rentals": 53.17
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 3,
+      "observed_hours": 227,
+      "average_rentals": 25.78
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 4,
+      "observed_hours": 227,
+      "average_rentals": 8.26
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 5,
+      "observed_hours": 222,
+      "average_rentals": 8.69
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 6,
+      "observed_hours": 229,
+      "average_rentals": 18.74
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 7,
+      "observed_hours": 231,
+      "average_rentals": 43.41
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 8,
+      "observed_hours": 231,
+      "average_rentals": 105.65
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 9,
+      "observed_hours": 231,
+      "average_rentals": 171.62
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 10,
+      "observed_hours": 231,
+      "average_rentals": 255.91
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 11,
+      "observed_hours": 231,
+      "average_rentals": 315.32
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 12,
+      "observed_hours": 231,
+      "average_rentals": 366.26
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 13,
+      "observed_hours": 231,
+      "average_rentals": 372.73
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 14,
+      "observed_hours": 231,
+      "average_rentals": 364.65
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 15,
+      "observed_hours": 231,
+      "average_rentals": 358.81
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 16,
+      "observed_hours": 231,
+      "average_rentals": 352.73
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 17,
+      "observed_hours": 231,
+      "average_rentals": 323.55
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 18,
+      "observed_hours": 230,
+      "average_rentals": 281.06
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 19,
+      "observed_hours": 230,
+      "average_rentals": 231.67
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 20,
+      "observed_hours": 230,
+      "average_rentals": 174.74
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 21,
+      "observed_hours": 230,
+      "average_rentals": 142.06
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 22,
+      "observed_hours": 230,
+      "average_rentals": 116.06
+    },
+    {
+      "day_type": "Weekend or holiday",
+      "hour": 23,
+      "observed_hours": 230,
+      "average_rentals": 85.93
+    },
+    {
+      "day_type": "Working day",
+      "hour": 0,
+      "observed_hours": 496,
+      "average_rentals": 36.79
+    },
+    {
+      "day_type": "Working day",
+      "hour": 1,
+      "observed_hours": 494,
+      "average_rentals": 16.55
+    },
+    {
+      "day_type": "Working day",
+      "hour": 2,
+      "observed_hours": 487,
+      "average_rentals": 8.68
+    },
+    {
+      "day_type": "Working day",
+      "hour": 3,
+      "observed_hours": 470,
+      "average_rentals": 4.94
+    },
+    {
+      "day_type": "Working day",
+      "hour": 4,
+      "observed_hours": 470,
+      "average_rentals": 5.43
+    },
+    {
+      "day_type": "Working day",
+      "hour": 5,
+      "observed_hours": 495,
+      "average_rentals": 24.91
+    },
+    {
+      "day_type": "Working day",
+      "hour": 6,
+      "observed_hours": 496,
+      "average_rentals": 102.5
+    },
+    {
+      "day_type": "Working day",
+      "hour": 7,
+      "observed_hours": 496,
+      "average_rentals": 290.61
+    },
+    {
+      "day_type": "Working day",
+      "hour": 8,
+      "observed_hours": 496,
+      "average_rentals": 477.01
+    },
+    {
+      "day_type": "Working day",
+      "hour": 9,
+      "observed_hours": 496,
+      "average_rentals": 241.52
+    },
+    {
+      "day_type": "Working day",
+      "hour": 10,
+      "observed_hours": 496,
+      "average_rentals": 135.37
+    },
+    {
+      "day_type": "Working day",
+      "hour": 11,
+      "observed_hours": 496,
+      "average_rentals": 158.23
+    },
+    {
+      "day_type": "Working day",
+      "hour": 12,
+      "observed_hours": 497,
+      "average_rentals": 200.82
+    },
+    {
+      "day_type": "Working day",
+      "hour": 13,
+      "observed_hours": 498,
+      "average_rentals": 198.43
+    },
+    {
+      "day_type": "Working day",
+      "hour": 14,
+      "observed_hours": 498,
+      "average_rentals": 183.57
+    },
+    {
+      "day_type": "Working day",
+      "hour": 15,
+      "observed_hours": 498,
+      "average_rentals": 201.33
+    },
+    {
+      "day_type": "Working day",
+      "hour": 16,
+      "observed_hours": 499,
+      "average_rentals": 293.12
+    },
+    {
+      "day_type": "Working day",
+      "hour": 17,
+      "observed_hours": 499,
+      "average_rentals": 525.29
+    },
+    {
+      "day_type": "Working day",
+      "hour": 18,
+      "observed_hours": 498,
+      "average_rentals": 492.23
+    },
+    {
+      "day_type": "Working day",
+      "hour": 19,
+      "observed_hours": 498,
+      "average_rentals": 348.4
+    },
+    {
+      "day_type": "Working day",
+      "hour": 20,
+      "observed_hours": 498,
+      "average_rentals": 249.72
+    },
+    {
+      "day_type": "Working day",
+      "hour": 21,
+      "observed_hours": 498,
+      "average_rentals": 186.29
+    },
+    {
+      "day_type": "Working day",
+      "hour": 22,
+      "observed_hours": 498,
+      "average_rentals": 138.39
+    },
+    {
+      "day_type": "Working day",
+      "hour": 23,
+      "observed_hours": 498,
+      "average_rentals": 88.71
+    }
+  ],
+  "05_weather": [
+    {
+      "weather": "Clear or partly cloudy",
+      "observed_hours": 11413,
+      "average_rentals": 204.87
+    },
+    {
+      "weather": "Mist or cloudy",
+      "observed_hours": 4544,
+      "average_rentals": 175.17
+    },
+    {
+      "weather": "Light rain or snow",
+      "observed_hours": 1419,
+      "average_rentals": 111.58
+    },
+    {
+      "weather": "Heavy rain or snow",
+      "observed_hours": 3,
+      "average_rentals": 74.33
+    }
+  ],
+  "06_monthly_growth": [
+    {
+      "month": "2011-01",
+      "total_rentals": 38189,
+      "previous_month_rentals": null,
+      "growth_percent": null
+    },
+    {
+      "month": "2011-02",
+      "total_rentals": 48215,
+      "previous_month_rentals": 38189,
+      "growth_percent": "26.25"
+    },
+    {
+      "month": "2011-03",
+      "total_rentals": 64045,
+      "previous_month_rentals": 48215,
+      "growth_percent": "32.83"
+    },
+    {
+      "month": "2011-04",
+      "total_rentals": 94870,
+      "previous_month_rentals": 64045,
+      "growth_percent": "48.13"
+    },
+    {
+      "month": "2011-05",
+      "total_rentals": 135821,
+      "previous_month_rentals": 94870,
+      "growth_percent": "43.17"
+    },
+    {
+      "month": "2011-06",
+      "total_rentals": 143512,
+      "previous_month_rentals": 135821,
+      "growth_percent": "5.66"
+    },
+    {
+      "month": "2011-07",
+      "total_rentals": 141341,
+      "previous_month_rentals": 143512,
+      "growth_percent": "-1.51"
+    },
+    {
+      "month": "2011-08",
+      "total_rentals": 136691,
+      "previous_month_rentals": 141341,
+      "growth_percent": "-3.29"
+    },
+    {
+      "month": "2011-09",
+      "total_rentals": 127418,
+      "previous_month_rentals": 136691,
+      "growth_percent": "-6.78"
+    },
+    {
+      "month": "2011-10",
+      "total_rentals": 123511,
+      "previous_month_rentals": 127418,
+      "growth_percent": "-3.07"
+    },
+    {
+      "month": "2011-11",
+      "total_rentals": 102167,
+      "previous_month_rentals": 123511,
+      "growth_percent": "-17.28"
+    },
+    {
+      "month": "2011-12",
+      "total_rentals": 87323,
+      "previous_month_rentals": 102167,
+      "growth_percent": "-14.53"
+    },
+    {
+      "month": "2012-01",
+      "total_rentals": 96744,
+      "previous_month_rentals": 87323,
+      "growth_percent": "10.79"
+    },
+    {
+      "month": "2012-02",
+      "total_rentals": 103137,
+      "previous_month_rentals": 96744,
+      "growth_percent": "6.61"
+    },
+    {
+      "month": "2012-03",
+      "total_rentals": 164875,
+      "previous_month_rentals": 103137,
+      "growth_percent": "59.86"
+    },
+    {
+      "month": "2012-04",
+      "total_rentals": 174224,
+      "previous_month_rentals": 164875,
+      "growth_percent": "5.67"
+    },
+    {
+      "month": "2012-05",
+      "total_rentals": 195865,
+      "previous_month_rentals": 174224,
+      "growth_percent": "12.42"
+    },
+    {
+      "month": "2012-06",
+      "total_rentals": 202830,
+      "previous_month_rentals": 195865,
+      "growth_percent": "3.56"
+    },
+    {
+      "month": "2012-07",
+      "total_rentals": 203607,
+      "previous_month_rentals": 202830,
+      "growth_percent": "0.38"
+    },
+    {
+      "month": "2012-08",
+      "total_rentals": 214503,
+      "previous_month_rentals": 203607,
+      "growth_percent": "5.35"
+    },
+    {
+      "month": "2012-09",
+      "total_rentals": 218573,
+      "previous_month_rentals": 214503,
+      "growth_percent": "1.90"
+    },
+    {
+      "month": "2012-10",
+      "total_rentals": 198841,
+      "previous_month_rentals": 218573,
+      "growth_percent": "-9.03"
+    },
+    {
+      "month": "2012-11",
+      "total_rentals": 152664,
+      "previous_month_rentals": 198841,
+      "growth_percent": "-23.22"
+    },
+    {
+      "month": "2012-12",
+      "total_rentals": 123713,
+      "previous_month_rentals": 152664,
+      "growth_percent": "-18.96"
+    }
+  ],
+  "quality": {
+    "rows": 17379,
+    "invalid_rows": 0,
+    "unique_date_hour_pairs": 17379
+  }
+}

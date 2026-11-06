@@ -1,0 +1,49 @@
+day_type,hour,observed_hours,average_rentals
+Weekend or holiday,0,230,90.8
+Weekend or holiday,1,230,69.51
+Weekend or holiday,2,228,53.17
+Weekend or holiday,3,227,25.78
+Weekend or holiday,4,227,8.26
+Weekend or holiday,5,222,8.69
+Weekend or holiday,6,229,18.74
+Weekend or holiday,7,231,43.41
+Weekend or holiday,8,231,105.65
+Weekend or holiday,9,231,171.62
+Weekend or holiday,10,231,255.91
+Weekend or holiday,11,231,315.32
+Weekend or holiday,12,231,366.26
+Weekend or holiday,13,231,372.73
+Weekend or holiday,14,231,364.65
+Weekend or holiday,15,231,358.81
+Weekend or holiday,16,231,352.73
+Weekend or holiday,17,231,323.55
+Weekend or holiday,18,230,281.06
+Weekend or holiday,19,230,231.67
+Weekend or holiday,20,230,174.74
+Weekend or holiday,21,230,142.06
+Weekend or holiday,22,230,116.06
+Weekend or holiday,23,230,85.93
+Working day,0,496,36.79
+Working day,1,494,16.55
+Working day,2,487,8.68
+Working day,3,470,4.94
+Working day,4,470,5.43
+Working day,5,495,24.91
+Working day,6,496,102.5
+Working day,7,496,290.61
+Working day,8,496,477.01
+Working day,9,496,241.52
+Working day,10,496,135.37
+Working day,11,496,158.23
+Working day,12,497,200.82
+Working day,13,498,198.43
+Working day,14,498,183.57
+Working day,15,498,201.33
+Working day,16,499,293.12
+Working day,17,499,525.29
+Working day,18,498,492.23
+Working day,19,498,348.4
+Working day,20,498,249.72
+Working day,21,498,186.29
+Working day,22,498,138.39
+Working day,23,498,88.71
